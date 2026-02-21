@@ -1,0 +1,62 @@
+#T Проверка polyHash на маленьких данных
+1
+1
+kuywcxcmhdxtk
+0
+
+#T Проверка rot13 на меленьких данных
+2
+1
+kuywcxcmhdxtk
+0
+
+#T Проверка djb2 на маленьких данных
+3
+1
+kuywcxcmhdxtk
+0
+
+*подключаем большие данные
+#setWaitTime 0.4
+#pause
+#T Проверка polyHash на больших данных
+1
+1
+zouoareswajmsm
+0
+
+#T Проверка rot13 на больших данных
+2
+1
+zouoareswajmsm
+0
+
+#T Проверка djb2 на больших данных
+3
+1
+zouoareswajmsm
+0
+
+#T ХэшТаблица не содержит элемента с введённым ключом
+3
+1
+abc
+0
+
+#T Проверка меню
+-1
+0
+2a
+3 g
+4
+5
+3
+0
+
+#T Проверка ввода ключа
+3
+1
+gxSnQdBJxHUNVgcYZZtJyuSKVFXtVpjTjpcKIBh
+gxSnQdBJxHUNVgcYZZtJyuSKVFXtVpjTjpcKIB
+0
+#end
