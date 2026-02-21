@@ -2,7 +2,7 @@
 #include <string.h>
 #include <time.h>
 
-#include "ginput.h"
+#include "utils/ginput.h"
 #include "record.h"
 
 #define LINKEDLIST_TYPE Record*
